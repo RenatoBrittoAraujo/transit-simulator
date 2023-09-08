@@ -1,14 +1,5 @@
 # Simulador De Trânsito
 
-**Número da Lista**: 5 (T02)<br>
-**Conteúdo da Disciplina**: Projetos de Algoritmos<br>
-
-## Alunos
-| Matrícula  | Aluno                |
-| ---------- | -------------------- |
-| 18/0027239 | Renato Britto Araujo |
-
-
 ## Screenshots
 
 *Execução do exemplo do cenário T2*
